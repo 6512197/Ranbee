@@ -1,4 +1,4 @@
-# Ranbee
+# randbee
 This project aims to develop ML models using advanced machine learning techniques, such as Now casting, Long Short Term Memory(LSTM), Random Forests, X gradient boosting, and Neural Networks. These models will be employed to predict a set of socio-economic variables in relation to labor market integration, providing valuable insights for decision-making processes. Moreover, this project will serve as a tool for new graduates from the Data Science program 2023-2024 of The Bridge School, allowing them to apply and showcase their skills in machine learning and data analysis.
  
 
@@ -9,7 +9,7 @@ This README file provides an overview of the folder structure in this repository
 
 ## Folder Descriptions<br>
 
-# Ranbee
+# Eandbee
 
 A model based on ML techniques to predict a socio-economic variable in real-time using Big Data obtained from Eurostat, Google Trends, and GDELT.
 
@@ -96,8 +96,8 @@ Please refer to the individual files and folders for more specific information a
 │ ├── gtrend_quaterly.csv<br>
 │ └── gtrend_quaterly_2017.csv<br>
 ├── MEMOIR<br>
-│ ├── Ranbee_Memoir_DRAFT (1).docx<br>
-│ ├── Ranbee_Memoir_DRAFT (1).pdf<br>
+│ ├── Eandbee_Memoir_DRAFT (1).docx<br>
+│ ├── Eandbee_Memoir_DRAFT (1).pdf<br>
 │ └── TEAM_TASKS<br>
 │ ├── DIVISION EN MINI TAREAS.docx<br>
 │ ├── ESQUEMA PRIMERA REUNION RANDBEE.docx<br>
@@ -114,7 +114,7 @@ Please refer to the individual files and folders for more specific information a
 - ricardogotal@gmail.com<br>
 
 
-Clone this repo: `git clone https://github.com/zero010010/Ranbee.git`<br>
+Clone this repo: `git clone https://github.com/zero010010/Eandbee.git`<br>
 
 
 
