@@ -96,8 +96,8 @@ Please refer to the individual files and folders for more specific information a
 │ ├── gtrend_quaterly.csv<br>
 │ └── gtrend_quaterly_2017.csv<br>
 ├── MEMOIR<br>
-│ ├── Eandbee_Memoir_DRAFT (1).docx<br>
-│ ├── Eandbee_Memoir_DRAFT (1).pdf<br>
+│ ├── Randbee_Memoir_DRAFT (1).docx<br>
+│ ├── Randbee_Memoir_DRAFT (1).pdf<br>
 │ └── TEAM_TASKS<br>
 │ ├── DIVISION EN MINI TAREAS.docx<br>
 │ ├── ESQUEMA PRIMERA REUNION RANDBEE.docx<br>
@@ -114,7 +114,7 @@ Please refer to the individual files and folders for more specific information a
 - ricardogotal@gmail.com<br>
 
 
-Clone this repo: `git clone https://github.com/zero010010/Eandbee.git`<br>
+Clone this repo: `git clone https://github.com/zero010010/Randbee.git`<br>
 
 
 
