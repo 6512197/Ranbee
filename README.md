@@ -1,4 +1,4 @@
-# randbee
+# Randbee
 This project aims to develop ML models using advanced machine learning techniques, such as Now casting, Long Short Term Memory(LSTM), Random Forests, X gradient boosting, and Neural Networks. These models will be employed to predict a set of socio-economic variables in relation to labor market integration, providing valuable insights for decision-making processes. Moreover, this project will serve as a tool for new graduates from the Data Science program 2023-2024 of The Bridge School, allowing them to apply and showcase their skills in machine learning and data analysis.
  
 
@@ -9,7 +9,7 @@ This README file provides an overview of the folder structure in this repository
 
 ## Folder Descriptions<br>
 
-# Eandbee
+# Randbee
 
 A model based on ML techniques to predict a socio-economic variable in real-time using Big Data obtained from Eurostat, Google Trends, and GDELT.
 
